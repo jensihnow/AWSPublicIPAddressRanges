@@ -1,6 +1,6 @@
 {
-  "syncToken": "1432663989",
-  "createDate": "2015-05-26-18-21-01",
+  "syncToken": "1432874289",
+  "createDate": "2015-05-29-05-21-02",
   "prefixes": [
     {
       "ip_prefix": "23.20.0.0/14",
@@ -150,6 +150,11 @@
     {
       "ip_prefix": "52.93.0.0/19",
       "region": "eu-central-1",
+      "service": "AMAZON"
+    },
+    {
+      "ip_prefix": "52.95.48.0/22",
+      "region": "us-east-1",
       "service": "AMAZON"
     },
     {
