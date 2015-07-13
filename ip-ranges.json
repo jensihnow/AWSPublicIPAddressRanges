@@ -1,6 +1,6 @@
 {
-  "syncToken": "1436562910",
-  "createDate": "2015-07-10-21-55-02",
+  "syncToken": "1436669109",
+  "createDate": "2015-07-12-02-55-02",
   "prefixes": [
     {
       "ip_prefix": "23.20.0.0/14",
@@ -285,6 +285,26 @@
     {
       "ip_prefix": "52.95.255.80/28",
       "region": "us-east-1",
+      "service": "AMAZON"
+    },
+    {
+      "ip_prefix": "52.95.255.96/28",
+      "region": "us-west-1",
+      "service": "AMAZON"
+    },
+    {
+      "ip_prefix": "52.95.255.112/28",
+      "region": "us-west-2",
+      "service": "AMAZON"
+    },
+    {
+      "ip_prefix": "52.95.255.128/28",
+      "region": "eu-central-1",
+      "service": "AMAZON"
+    },
+    {
+      "ip_prefix": "52.95.255.144/28",
+      "region": "cn-north-1",
       "service": "AMAZON"
     },
     {
@@ -1525,6 +1545,26 @@
     {
       "ip_prefix": "52.95.255.80/28",
       "region": "us-east-1",
+      "service": "EC2"
+    },
+    {
+      "ip_prefix": "52.95.255.96/28",
+      "region": "us-west-1",
+      "service": "EC2"
+    },
+    {
+      "ip_prefix": "52.95.255.112/28",
+      "region": "us-west-2",
+      "service": "EC2"
+    },
+    {
+      "ip_prefix": "52.95.255.128/28",
+      "region": "eu-central-1",
+      "service": "EC2"
+    },
+    {
+      "ip_prefix": "52.95.255.144/28",
+      "region": "cn-north-1",
       "service": "EC2"
     },
     {
