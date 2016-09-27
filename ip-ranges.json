@@ -1,6 +1,6 @@
 {
-  "syncToken": "1474567746",
-  "createDate": "2016-09-22-18-09-06",
+  "syncToken": "1474908546",
+  "createDate": "2016-09-26-16-49-06",
   "prefixes": [
     {
       "ip_prefix": "13.32.0.0/15",
@@ -3500,21 +3500,6 @@
       "service": "AMAZON"
     },
     {
-      "ipv6_prefix": "2600:1fa0:a040::/44",
-      "region": "us-iso-east-1",
-      "service": "AMAZON"
-    },
-    {
-      "ipv6_prefix": "2600:1fa0:a080::/44",
-      "region": "us-iso-east-1",
-      "service": "AMAZON"
-    },
-    {
-      "ipv6_prefix": "2600:1fa0:a0c0::/44",
-      "region": "us-iso-east-1",
-      "service": "AMAZON"
-    },
-    {
       "ipv6_prefix": "2600:1fa0:c020::/44",
       "region": "us-west-1",
       "service": "AMAZON"
@@ -3567,11 +3552,6 @@
     {
       "ipv6_prefix": "2600:1ffc:8000::/40",
       "region": "us-east-1",
-      "service": "AMAZON"
-    },
-    {
-      "ipv6_prefix": "2600:1ffc:a000::/40",
-      "region": "us-iso-east-1",
       "service": "AMAZON"
     },
     {
