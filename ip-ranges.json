@@ -1,6 +1,6 @@
 {
-  "syncToken": "1479494948",
-  "createDate": "2016-11-18-18-49-08",
+  "syncToken": "1479826749",
+  "createDate": "2016-11-22-14-59-09",
   "prefixes": [
     {
       "ip_prefix": "13.32.0.0/15",
@@ -4002,6 +4002,11 @@
     {
       "ipv6_prefix": "2600:1ffc:e000::/40",
       "region": "sa-east-1",
+      "service": "AMAZON"
+    },
+    {
+      "ipv6_prefix": "2600:9000::/28",
+      "region": "GLOBAL",
       "service": "AMAZON"
     },
     {
