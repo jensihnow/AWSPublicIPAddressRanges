@@ -1,6 +1,6 @@
 {
-  "syncToken": "1480630748",
-  "createDate": "2016-12-01-22-19-08",
+  "syncToken": "1480979949",
+  "createDate": "2016-12-05-23-19-09",
   "prefixes": [
     {
       "ip_prefix": "13.32.0.0/15",
@@ -4298,6 +4298,216 @@
       "ipv6_prefix": "2a05:d07c:c000::/40",
       "region": "eu-west-2",
       "service": "AMAZON"
+    },
+    {
+      "ipv6_prefix": "2400:6500:ff00::/64",
+      "region": "ap-southeast-1",
+      "service": "EC2"
+    },
+    {
+      "ipv6_prefix": "2400:6700:ff00::/64",
+      "region": "ap-northeast-1",
+      "service": "EC2"
+    },
+    {
+      "ipv6_prefix": "2403:b300:ff00::/64",
+      "region": "ap-southeast-2",
+      "service": "EC2"
+    },
+    {
+      "ipv6_prefix": "2406:da00:2000::/40",
+      "region": "ap-northeast-2",
+      "service": "EC2"
+    },
+    {
+      "ipv6_prefix": "2406:da00:4000::/40",
+      "region": "ap-northeast-1",
+      "service": "EC2"
+    },
+    {
+      "ipv6_prefix": "2406:da00:8000::/40",
+      "region": "ap-southeast-1",
+      "service": "EC2"
+    },
+    {
+      "ipv6_prefix": "2406:da00:a000::/40",
+      "region": "ap-south-1",
+      "service": "EC2"
+    },
+    {
+      "ipv6_prefix": "2406:da00:c000::/40",
+      "region": "ap-southeast-2",
+      "service": "EC2"
+    },
+    {
+      "ipv6_prefix": "2406:da00:ff00::/64",
+      "region": "us-east-1",
+      "service": "EC2"
+    },
+    {
+      "ipv6_prefix": "2406:da12::/36",
+      "region": "ap-northeast-2",
+      "service": "EC2"
+    },
+    {
+      "ipv6_prefix": "2406:da14::/36",
+      "region": "ap-northeast-1",
+      "service": "EC2"
+    },
+    {
+      "ipv6_prefix": "2406:da18::/36",
+      "region": "ap-southeast-1",
+      "service": "EC2"
+    },
+    {
+      "ipv6_prefix": "2406:da1a::/36",
+      "region": "ap-south-1",
+      "service": "EC2"
+    },
+    {
+      "ipv6_prefix": "2406:da1c::/36",
+      "region": "ap-southeast-2",
+      "service": "EC2"
+    },
+    {
+      "ipv6_prefix": "240f:8000:8000::/40",
+      "region": "cn-north-1",
+      "service": "EC2"
+    },
+    {
+      "ipv6_prefix": "240f:8018::/36",
+      "region": "cn-north-1",
+      "service": "EC2"
+    },
+    {
+      "ipv6_prefix": "2600:1f00:1000::/40",
+      "region": "ca-central-1",
+      "service": "EC2"
+    },
+    {
+      "ipv6_prefix": "2600:1f00:2000::/40",
+      "region": "us-gov-west-1",
+      "service": "EC2"
+    },
+    {
+      "ipv6_prefix": "2600:1f00:4000::/40",
+      "region": "us-west-2",
+      "service": "EC2"
+    },
+    {
+      "ipv6_prefix": "2600:1f00:6000::/40",
+      "region": "us-east-2",
+      "service": "EC2"
+    },
+    {
+      "ipv6_prefix": "2600:1f00:8000::/40",
+      "region": "us-east-1",
+      "service": "EC2"
+    },
+    {
+      "ipv6_prefix": "2600:1f00:c000::/40",
+      "region": "us-west-1",
+      "service": "EC2"
+    },
+    {
+      "ipv6_prefix": "2600:1f00:e000::/40",
+      "region": "sa-east-1",
+      "service": "EC2"
+    },
+    {
+      "ipv6_prefix": "2600:1f11::/36",
+      "region": "ca-central-1",
+      "service": "EC2"
+    },
+    {
+      "ipv6_prefix": "2600:1f12::/36",
+      "region": "us-gov-west-1",
+      "service": "EC2"
+    },
+    {
+      "ipv6_prefix": "2600:1f14::/35",
+      "region": "us-west-2",
+      "service": "EC2"
+    },
+    {
+      "ipv6_prefix": "2600:1f16::/36",
+      "region": "us-east-2",
+      "service": "EC2"
+    },
+    {
+      "ipv6_prefix": "2600:1f18::/33",
+      "region": "us-east-1",
+      "service": "EC2"
+    },
+    {
+      "ipv6_prefix": "2600:1f1c::/36",
+      "region": "us-west-1",
+      "service": "EC2"
+    },
+    {
+      "ipv6_prefix": "2600:1f1e::/36",
+      "region": "sa-east-1",
+      "service": "EC2"
+    },
+    {
+      "ipv6_prefix": "2620:107:300f::/64",
+      "region": "us-west-1",
+      "service": "EC2"
+    },
+    {
+      "ipv6_prefix": "2620:108:700f::/64",
+      "region": "us-west-2",
+      "service": "EC2"
+    },
+    {
+      "ipv6_prefix": "2620:108:d00f::/64",
+      "region": "us-gov-west-1",
+      "service": "EC2"
+    },
+    {
+      "ipv6_prefix": "2804:800:ff00::/64",
+      "region": "sa-east-1",
+      "service": "EC2"
+    },
+    {
+      "ipv6_prefix": "2a01:578:3::/64",
+      "region": "eu-west-1",
+      "service": "EC2"
+    },
+    {
+      "ipv6_prefix": "2a01:578:13::/64",
+      "region": "eu-central-1",
+      "service": "EC2"
+    },
+    {
+      "ipv6_prefix": "2a05:d000:4000::/40",
+      "region": "eu-central-1",
+      "service": "EC2"
+    },
+    {
+      "ipv6_prefix": "2a05:d000:8000::/40",
+      "region": "eu-west-1",
+      "service": "EC2"
+    },
+    {
+      "ipv6_prefix": "2a05:d000:c000::/40",
+      "region": "eu-west-2",
+      "service": "EC2"
+    },
+    {
+      "ipv6_prefix": "2a05:d014::/36",
+      "region": "eu-central-1",
+      "service": "EC2"
+    },
+    {
+      "ipv6_prefix": "2a05:d018::/36",
+      "region": "eu-west-1",
+      "service": "EC2"
+    },
+    {
+      "ipv6_prefix": "2a05:d01c::/36",
+      "region": "eu-west-2",
+      "service": "EC2"
     },
     {
       "ipv6_prefix": "2400:6500:ff00::36fb:1f80/122",
