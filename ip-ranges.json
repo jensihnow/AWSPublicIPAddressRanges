@@ -1,6 +1,6 @@
 {
-  "syncToken": "1496851931",
-  "createDate": "2017-06-07-16-12-11",
+  "syncToken": "1496961731",
+  "createDate": "2017-06-08-22-42-11",
   "prefixes": [
     {
       "ip_prefix": "13.32.0.0/15",
@@ -2905,6 +2905,11 @@
     {
       "ip_prefix": "52.219.80.0/20",
       "region": "us-east-2",
+      "service": "S3"
+    },
+    {
+      "ip_prefix": "54.222.16.0/22",
+      "region": "cn-north-1",
       "service": "S3"
     },
     {
