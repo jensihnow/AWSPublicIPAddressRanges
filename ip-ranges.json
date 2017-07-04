@@ -1,15 +1,10 @@
 {
-  "syncToken": "1498776131",
-  "createDate": "2017-06-29-22-42-11",
+  "syncToken": "1499121731",
+  "createDate": "2017-07-03-22-42-11",
   "prefixes": [
     {
       "ip_prefix": "13.32.0.0/15",
       "region": "GLOBAL",
-      "service": "AMAZON"
-    },
-    {
-      "ip_prefix": "13.52.0.0/15",
-      "region": "ca-central-1",
       "service": "AMAZON"
     },
     {
@@ -143,11 +138,6 @@
       "service": "AMAZON"
     },
     {
-      "ip_prefix": "35.153.0.0/16",
-      "region": "eu-central-1",
-      "service": "AMAZON"
-    },
-    {
       "ip_prefix": "35.154.0.0/16",
       "region": "ap-south-1",
       "service": "AMAZON"
@@ -180,11 +170,6 @@
     {
       "ip_prefix": "35.178.0.0/15",
       "region": "eu-west-2",
-      "service": "AMAZON"
-    },
-    {
-      "ip_prefix": "35.180.0.0/15",
-      "region": "ca-central-1",
       "service": "AMAZON"
     },
     {
@@ -3048,11 +3033,6 @@
       "service": "S3"
     },
     {
-      "ip_prefix": "13.52.0.0/15",
-      "region": "ca-central-1",
-      "service": "EC2"
-    },
-    {
       "ip_prefix": "13.54.0.0/15",
       "region": "ap-southeast-2",
       "service": "EC2"
@@ -3178,11 +3158,6 @@
       "service": "EC2"
     },
     {
-      "ip_prefix": "35.153.0.0/16",
-      "region": "eu-central-1",
-      "service": "EC2"
-    },
-    {
       "ip_prefix": "35.154.0.0/16",
       "region": "ap-south-1",
       "service": "EC2"
@@ -3215,11 +3190,6 @@
     {
       "ip_prefix": "35.178.0.0/15",
       "region": "eu-west-2",
-      "service": "EC2"
-    },
-    {
-      "ip_prefix": "35.180.0.0/15",
-      "region": "ca-central-1",
       "service": "EC2"
     },
     {
