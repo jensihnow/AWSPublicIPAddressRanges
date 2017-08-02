@@ -1,6 +1,6 @@
 {
-  "syncToken": "1501270932",
-  "createDate": "2017-07-28-19-42-12",
+  "syncToken": "1501621932",
+  "createDate": "2017-08-01-21-12-12",
   "prefixes": [
     {
       "ip_prefix": "13.32.0.0/15",
@@ -6073,6 +6073,11 @@
       "ipv6_prefix": "2a05:d07f:c000::/40",
       "region": "eu-west-2",
       "service": "EC2"
+    },
+    {
+      "ipv6_prefix": "2600:9000::/28",
+      "region": "GLOBAL",
+      "service": "CLOUDFRONT"
     }
   ]
 }
