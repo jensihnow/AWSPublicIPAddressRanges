@@ -1,6 +1,6 @@
 {
-  "syncToken": "1524093377",
-  "createDate": "2018-04-18-23-16-17",
+  "syncToken": "1524161777",
+  "createDate": "2018-04-19-18-16-17",
   "prefixes": [
     {
       "ip_prefix": "13.32.0.0/15",
@@ -1985,6 +1985,11 @@
     {
       "ip_prefix": "52.144.211.0/26",
       "region": "eu-central-1",
+      "service": "AMAZON"
+    },
+    {
+      "ip_prefix": "52.144.211.128/26",
+      "region": "eu-west-2",
       "service": "AMAZON"
     },
     {
@@ -5591,6 +5596,56 @@
       "ip_prefix": "177.71.207.16/29",
       "region": "sa-east-1",
       "service": "CODEBUILD"
+    },
+    {
+      "ip_prefix": "13.250.186.128/27",
+      "service": "CLOUD9",
+      "region": "ap-southeast-1"
+    },
+    {
+      "ip_prefix": "13.250.186.160/27",
+      "service": "CLOUD9",
+      "region": "ap-southeast-1"
+    },
+    {
+      "ip_prefix": "18.188.9.0/27",
+      "service": "CLOUD9",
+      "region": "us-east-2"
+    },
+    {
+      "ip_prefix": "18.188.9.32/27",
+      "service": "CLOUD9",
+      "region": "us-east-2"
+    },
+    {
+      "ip_prefix": "34.217.141.224/27",
+      "service": "CLOUD9",
+      "region": "us-west-2"
+    },
+    {
+      "ip_prefix": "34.218.119.32/27",
+      "service": "CLOUD9",
+      "region": "us-west-2"
+    },
+    {
+      "ip_prefix": "34.245.205.0/27",
+      "service": "CLOUD9",
+      "region": "eu-west-1"
+    },
+    {
+      "ip_prefix": "34.245.205.64/27",
+      "service": "CLOUD9",
+      "region": "eu-west-1"
+    },
+    {
+      "ip_prefix": "35.172.155.192/27",
+      "service": "CLOUD9",
+      "region": "us-east-1"
+    },
+    {
+      "ip_prefix": "35.172.155.96/27",
+      "service": "CLOUD9",
+      "region": "us-east-1"
     }
   ],
   "ipv6_prefixes": [
