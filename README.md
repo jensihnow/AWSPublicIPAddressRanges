@@ -6,6 +6,10 @@ This repo tracks the changes made to the official AWS IP Address Range list avai
 
 More details about the content are documented on [docs.aws.amazon.com](http://docs.aws.amazon.com/general/latest/gr/aws-ip-ranges.html)
 
+## Content syntax
+
+Please see syntax on the official documentation on [docs.aws.amazon.com](https://docs.aws.amazon.com/general/latest/gr/aws-ip-ranges.html#aws-ip-syntax)
+
 ## Usage examples
 
 Since AWS publishes a json file it is easy to filter using tools like [jq](https://stedolan.github.io/jq/). AWS published some good examples on [docs.aws.amazon.com](http://docs.aws.amazon.com/general/latest/gr/aws-ip-ranges.html)
