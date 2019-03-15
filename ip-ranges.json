@@ -1,6 +1,6 @@
 {
-  "syncToken": "1552503691",
-  "createDate": "2019-03-13-19-01-31",
+  "syncToken": "1552597290",
+  "createDate": "2019-03-14-21-01-30",
   "prefixes": [
     {
       "ip_prefix": "18.208.0.0/13",
@@ -754,7 +754,7 @@
     },
     {
       "ip_prefix": "52.82.128.0/19",
-      "region": "cn-northwest-1",
+      "region": "GLOBAL",
       "service": "AMAZON"
     },
     {
@@ -6379,7 +6379,7 @@
     },
     {
       "ip_prefix": "52.82.128.0/19",
-      "region": "cn-northwest-1",
+      "region": "GLOBAL",
       "service": "CLOUDFRONT"
     },
     {
