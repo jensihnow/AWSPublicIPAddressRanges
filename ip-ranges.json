@@ -1,6 +1,6 @@
 {
-  "syncToken": "1557431944",
-  "createDate": "2019-05-09-19-59-04",
+  "syncToken": "1557521944",
+  "createDate": "2019-05-10-20-59-04",
   "prefixes": [
     {
       "ip_prefix": "18.208.0.0/13",
@@ -3675,6 +3675,11 @@
     {
       "ip_prefix": "54.246.0.0/16",
       "region": "eu-west-1",
+      "service": "AMAZON"
+    },
+    {
+      "ip_prefix": "13.248.108.0/24",
+      "region": "us-east-1",
       "service": "AMAZON"
     },
     {
@@ -7800,6 +7805,11 @@
       "service": "AMAZON"
     },
     {
+      "ipv6_prefix": "2404:c2c0:2800::/40",
+      "region": "cn-northwest-1",
+      "service": "AMAZON"
+    },
+    {
       "ipv6_prefix": "2406:dafa:6000::/40",
       "region": "ap-northeast-3",
       "service": "AMAZON"
@@ -7950,8 +7960,18 @@
       "service": "AMAZON"
     },
     {
+      "ipv6_prefix": "2400:7fc0:2600::/40",
+      "region": "cn-north-1",
+      "service": "AMAZON"
+    },
+    {
       "ipv6_prefix": "2600:1ffc:1000::/40",
       "region": "ca-central-1",
+      "service": "AMAZON"
+    },
+    {
+      "ipv6_prefix": "2400:7fc0:2200::/40",
+      "region": "cn-north-1",
       "service": "AMAZON"
     },
     {
@@ -8077,6 +8097,11 @@
     {
       "ipv6_prefix": "2a05:d07e:2000::/40",
       "region": "eu-west-3",
+      "service": "AMAZON"
+    },
+    {
+      "ipv6_prefix": "2400:7fc0:2400::/40",
+      "region": "cn-north-1",
       "service": "AMAZON"
     },
     {
@@ -8235,6 +8260,11 @@
       "service": "AMAZON"
     },
     {
+      "ipv6_prefix": "2400:7fc0:2800::/40",
+      "region": "cn-north-1",
+      "service": "AMAZON"
+    },
+    {
       "ipv6_prefix": "2406:da00:2000::/40",
       "region": "ap-northeast-2",
       "service": "AMAZON"
@@ -8272,6 +8302,11 @@
     {
       "ipv6_prefix": "2a05:d012::/36",
       "region": "eu-west-3",
+      "service": "AMAZON"
+    },
+    {
+      "ipv6_prefix": "2404:c2c0:2600::/40",
+      "region": "cn-northwest-1",
       "service": "AMAZON"
     },
     {
@@ -8331,6 +8366,11 @@
     },
     {
       "ipv6_prefix": "240f:80a0:4000::/40",
+      "region": "cn-northwest-1",
+      "service": "AMAZON"
+    },
+    {
+      "ipv6_prefix": "2404:c2c0:2a00::/40",
       "region": "cn-northwest-1",
       "service": "AMAZON"
     },
@@ -8625,6 +8665,11 @@
       "service": "AMAZON"
     },
     {
+      "ipv6_prefix": "2400:7fc0:2a00::/40",
+      "region": "cn-north-1",
+      "service": "AMAZON"
+    },
+    {
       "ipv6_prefix": "2600:9000:1000::/36",
       "region": "GLOBAL",
       "service": "AMAZON"
@@ -8767,6 +8812,11 @@
     {
       "ipv6_prefix": "2600:1f15::/32",
       "region": "us-gov-east-1",
+      "service": "AMAZON"
+    },
+    {
+      "ipv6_prefix": "2400:7fc0:2c00::/40",
+      "region": "cn-north-1",
       "service": "AMAZON"
     },
     {
@@ -8967,6 +9017,11 @@
     {
       "ipv6_prefix": "2a05:d000:6000::/40",
       "region": "eu-north-1",
+      "service": "AMAZON"
+    },
+    {
+      "ipv6_prefix": "2404:c2c0:2c00::/40",
+      "region": "cn-northwest-1",
       "service": "AMAZON"
     },
     {
@@ -9320,6 +9375,11 @@
       "service": "S3"
     },
     {
+      "ipv6_prefix": "2404:c2c0:2800::/40",
+      "region": "cn-northwest-1",
+      "service": "S3"
+    },
+    {
       "ipv6_prefix": "2406:dafa:6000::/40",
       "region": "ap-northeast-3",
       "service": "S3"
@@ -9425,6 +9485,11 @@
       "service": "S3"
     },
     {
+      "ipv6_prefix": "2400:7fc0:2400::/40",
+      "region": "cn-north-1",
+      "service": "S3"
+    },
+    {
       "ipv6_prefix": "2600:1ffa:c000::/40",
       "region": "us-west-1",
       "service": "S3"
@@ -9472,6 +9537,11 @@
     {
       "ipv6_prefix": "2a05:d078:2000::/40",
       "region": "eu-west-3",
+      "service": "S3"
+    },
+    {
+      "ipv6_prefix": "2400:7fc0:2800::/40",
+      "region": "cn-north-1",
       "service": "S3"
     },
     {
@@ -9680,6 +9750,11 @@
       "service": "S3"
     },
     {
+      "ipv6_prefix": "2400:7fc0:2c00::/40",
+      "region": "cn-north-1",
+      "service": "S3"
+    },
+    {
       "ipv6_prefix": "2a05:d078:4000::/40",
       "region": "eu-central-1",
       "service": "S3"
@@ -9732,6 +9807,11 @@
     {
       "ipv6_prefix": "2600:1ff9:6000::/40",
       "region": "us-east-2",
+      "service": "S3"
+    },
+    {
+      "ipv6_prefix": "2404:c2c0:2c00::/40",
+      "region": "cn-northwest-1",
       "service": "S3"
     },
     {
@@ -9847,6 +9927,11 @@
     {
       "ipv6_prefix": "2a05:d07f:e000::/40",
       "region": "me-south-1",
+      "service": "EC2"
+    },
+    {
+      "ipv6_prefix": "2400:7fc0:2200::/40",
+      "region": "cn-north-1",
       "service": "EC2"
     },
     {
