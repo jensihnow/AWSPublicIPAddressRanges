@@ -1,6 +1,6 @@
 {
-  "syncToken": "1569442388",
-  "createDate": "2019-09-25-20-13-08",
+  "syncToken": "1569523988",
+  "createDate": "2019-09-26-18-53-08",
   "prefixes": [
     {
       "ip_prefix": "13.248.118.0/24",
@@ -8681,6 +8681,161 @@
       "ip_prefix": "99.80.34.128/25",
       "region": "eu-west-1",
       "service": "AMAZON"
+    },
+    {
+      "ip_prefix": "108.128.160.0/23",
+      "region": "eu-west-1",
+      "service": "API_GATEWAY"
+    },
+    {
+      "ip_prefix": "108.128.162.0/24",
+      "region": "eu-west-1",
+      "service": "API_GATEWAY"
+    },
+    {
+      "ip_prefix": "13.208.180.0/24",
+      "region": "ap-northeast-3",
+      "service": "API_GATEWAY"
+    },
+    {
+      "ip_prefix": "13.235.228.0/24",
+      "region": "ap-south-1",
+      "service": "API_GATEWAY"
+    },
+    {
+      "ip_prefix": "13.235.6.0/23",
+      "region": "ap-south-1",
+      "service": "API_GATEWAY"
+    },
+    {
+      "ip_prefix": "13.48.74.0/24",
+      "region": "eu-north-1",
+      "service": "API_GATEWAY"
+    },
+    {
+      "ip_prefix": "13.52.201.0/24",
+      "region": "us-west-1",
+      "service": "API_GATEWAY"
+    },
+    {
+      "ip_prefix": "13.52.202.0/24",
+      "region": "us-west-1",
+      "service": "API_GATEWAY"
+    },
+    {
+      "ip_prefix": "15.164.156.0/23",
+      "region": "ap-northeast-2",
+      "service": "API_GATEWAY"
+    },
+    {
+      "ip_prefix": "18.138.134.128/25",
+      "region": "ap-southeast-1",
+      "service": "API_GATEWAY"
+    },
+    {
+      "ip_prefix": "18.138.244.0/23",
+      "region": "ap-southeast-1",
+      "service": "API_GATEWAY"
+    },
+    {
+      "ip_prefix": "18.229.100.0/26",
+      "region": "sa-east-1",
+      "service": "API_GATEWAY"
+    },
+    {
+      "ip_prefix": "18.229.99.0/24",
+      "region": "sa-east-1",
+      "service": "API_GATEWAY"
+    },
+    {
+      "ip_prefix": "3.10.17.0/25",
+      "region": "eu-west-2",
+      "service": "API_GATEWAY"
+    },
+    {
+      "ip_prefix": "3.105.172.0/22",
+      "region": "ap-southeast-2",
+      "service": "API_GATEWAY"
+    },
+    {
+      "ip_prefix": "3.112.162.0/23",
+      "region": "ap-northeast-1",
+      "service": "API_GATEWAY"
+    },
+    {
+      "ip_prefix": "3.112.96.160/27",
+      "region": "ap-northeast-1",
+      "service": "API_GATEWAY"
+    },
+    {
+      "ip_prefix": "3.123.14.0/24",
+      "region": "eu-central-1",
+      "service": "API_GATEWAY"
+    },
+    {
+      "ip_prefix": "3.123.15.0/25",
+      "region": "eu-central-1",
+      "service": "API_GATEWAY"
+    },
+    {
+      "ip_prefix": "3.15.35.0/24",
+      "region": "us-east-2",
+      "service": "API_GATEWAY"
+    },
+    {
+      "ip_prefix": "3.15.36.0/26",
+      "region": "us-east-2",
+      "service": "API_GATEWAY"
+    },
+    {
+      "ip_prefix": "3.216.135.0/24",
+      "region": "us-east-1",
+      "service": "API_GATEWAY"
+    },
+    {
+      "ip_prefix": "3.216.136.0/21",
+      "region": "us-east-1",
+      "service": "API_GATEWAY"
+    },
+    {
+      "ip_prefix": "3.216.144.0/23",
+      "region": "us-east-1",
+      "service": "API_GATEWAY"
+    },
+    {
+      "ip_prefix": "3.216.148.0/22",
+      "region": "us-east-1",
+      "service": "API_GATEWAY"
+    },
+    {
+      "ip_prefix": "3.9.94.0/24",
+      "region": "eu-west-2",
+      "service": "API_GATEWAY"
+    },
+    {
+      "ip_prefix": "34.223.68.0/22",
+      "region": "us-west-2",
+      "service": "API_GATEWAY"
+    },
+    {
+      "ip_prefix": "34.223.72.0/23",
+      "region": "us-west-2",
+      "service": "API_GATEWAY"
+    },
+    {
+      "ip_prefix": "34.223.74.0/25",
+      "region": "us-west-2",
+      "service": "API_GATEWAY"
+    },
+    {
+      "ip_prefix": "35.181.128.0/24",
+      "region": "eu-west-3",
+      "service": "API_GATEWAY"
+    },
+    {
+      "ip_prefix": "99.79.126.0/24",
+      "region": "ca-central-1",
+      "service": "API_GATEWAY"
     },
     {
       "ip_prefix": "13.210.2.192/26",
