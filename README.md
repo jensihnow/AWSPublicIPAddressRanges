@@ -1,5 +1,7 @@
 # AWSPublicIPAddressRanges
 
+![last-commit] ![issues-raw] ![issues-pr-raw] ![repo-size]
+
 ## Introduction
 
 This repo tracks the changes made to the official AWS IP Address Range list available on [https://ip-ranges.amazonaws.com/ip-ranges.json](https://ip-ranges.amazonaws.com/ip-ranges.json).
@@ -23,3 +25,7 @@ Instead of consuming the json file or this git repo, you can also subscribe to t
 As AWS is only keeping the current state it becomes hard to track changes over time. Comparing a saved state with a current state can be done using the publication time, as long as you have a previous file saved.
 
 This repo is updated once a day if updates had been published. This allows to track all changes over time for comparrison.
+[last-commit]: https://img.shields.io/github/last-commit/jensihnow/AWSPublicIPAddressRanges
+[issues-raw]: https://img.shields.io/github/issues-raw/jensihnow/AWSPublicIPAddressRanges
+[issues-pr-raw]: https://img.shields.io/github/issues-pr-raw/jensihnow/AWSPublicIPAddressRanges
+[repo-size]: https://img.shields.io/github/repo-size/jensihnow/AWSPublicIPAddressRanges
