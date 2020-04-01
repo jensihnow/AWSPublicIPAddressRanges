@@ -1,6 +1,6 @@
 {
-  "syncToken": "1585604591",
-  "createDate": "2020-03-30-21-43-11",
+  "syncToken": "1585707191",
+  "createDate": "2020-04-01-02-13-11",
   "prefixes": [
     {
       "ip_prefix": "13.248.118.0/24",
@@ -4193,11 +4193,6 @@
       "service": "AMAZON"
     },
     {
-      "ip_prefix": "52.92.68.0/22",
-      "region": "eu-central-1",
-      "service": "AMAZON"
-    },
-    {
       "ip_prefix": "52.94.0.0/22",
       "region": "us-east-1",
       "service": "AMAZON"
@@ -4520,11 +4515,6 @@
     {
       "ip_prefix": "54.228.0.0/16",
       "region": "eu-west-1",
-      "service": "AMAZON"
-    },
-    {
-      "ip_prefix": "52.92.52.0/22",
-      "region": "ap-southeast-2",
       "service": "AMAZON"
     },
     {
@@ -5045,11 +5035,6 @@
     {
       "ip_prefix": "46.137.224.0/19",
       "region": "ap-southeast-1",
-      "service": "AMAZON"
-    },
-    {
-      "ip_prefix": "52.92.248.0/22",
-      "region": "ap-south-1",
       "service": "AMAZON"
     },
     {
@@ -6328,11 +6313,6 @@
       "service": "S3"
     },
     {
-      "ip_prefix": "52.92.68.0/22",
-      "region": "eu-central-1",
-      "service": "S3"
-    },
-    {
       "ip_prefix": "52.219.112.0/21",
       "region": "us-west-1",
       "service": "S3"
@@ -6363,11 +6343,6 @@
       "service": "S3"
     },
     {
-      "ip_prefix": "52.92.52.0/22",
-      "region": "ap-southeast-2",
-      "service": "S3"
-    },
-    {
       "ip_prefix": "52.92.60.0/22",
       "region": "ap-northeast-1",
       "service": "S3"
@@ -6390,11 +6365,6 @@
     {
       "ip_prefix": "52.95.162.0/24",
       "region": "ap-east-1",
-      "service": "S3"
-    },
-    {
-      "ip_prefix": "52.92.248.0/22",
-      "region": "ap-south-1",
       "service": "S3"
     },
     {
@@ -10143,6 +10113,11 @@
       "service": "CLOUD9"
     },
     {
+      "ip_prefix": "13.52.232.224/27",
+      "region": "us-west-1",
+      "service": "CLOUD9"
+    },
+    {
       "ip_prefix": "15.164.243.192/27",
       "region": "ap-northeast-2",
       "service": "CLOUD9"
@@ -10153,6 +10128,16 @@
       "service": "CLOUD9"
     },
     {
+      "ip_prefix": "15.188.210.32/27",
+      "region": "eu-west-3",
+      "service": "CLOUD9"
+    },
+    {
+      "ip_prefix": "15.188.210.64/27",
+      "region": "eu-west-3",
+      "service": "CLOUD9"
+    },
+    {
       "ip_prefix": "15.222.16.96/27",
       "region": "ca-central-1",
       "service": "CLOUD9"
@@ -10160,6 +10145,11 @@
     {
       "ip_prefix": "15.222.43.0/27",
       "region": "ca-central-1",
+      "service": "CLOUD9"
+    },
+    {
+      "ip_prefix": "18.144.158.0/27",
+      "region": "us-west-1",
       "service": "CLOUD9"
     },
     {
@@ -10190,6 +10180,16 @@
     {
       "ip_prefix": "18.188.9.32/27",
       "region": "us-east-2",
+      "service": "CLOUD9"
+    },
+    {
+      "ip_prefix": "18.230.46.0/27",
+      "region": "sa-east-1",
+      "service": "CLOUD9"
+    },
+    {
+      "ip_prefix": "18.230.46.32/27",
+      "region": "sa-east-1",
       "service": "CLOUD9"
     },
     {
