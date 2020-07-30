@@ -3,6 +3,7 @@ name: Update ip-ranges.json
 on:
   schedule:
     - cron: '00 3 * * *'
+  workflow_dispatch:
 # Jobs
 jobs:
   update:
@@ -17,7 +18,7 @@ jobs:
         echo "${{ toJson(github) }}"
     # Checkout
     - name: Checkout
-      uses: actions/checkout@master
+      uses: actions/checkout@main
     # Download
     - name: Download from source (https://ip-ranges.amazonaws.com/ip-ranges.json)
       run: curl --connect-timeout 60 --retry 3 --retry-delay 15 --show-error --compressed -v -o ./ip-ranges.json https://ip-ranges.amazonaws.com/ip-ranges.json
