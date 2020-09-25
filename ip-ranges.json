@@ -1,6 +1,6 @@
 {
-  "syncToken": "1600896076",
-  "createDate": "2020-09-23-21-21-16",
+  "syncToken": "1600978876",
+  "createDate": "2020-09-24-20-21-16",
   "prefixes": [
     {
       "ip_prefix": "3.5.140.0/22",
@@ -3723,6 +3723,12 @@
       "network_border_group": "af-south-1"
     },
     {
+      "ip_prefix": "13.34.28.224/27",
+      "region": "us-west-2",
+      "service": "AMAZON",
+      "network_border_group": "us-west-2"
+    },
+    {
       "ip_prefix": "15.230.39.118/31",
       "region": "us-east-2",
       "service": "AMAZON",
@@ -3877,6 +3883,12 @@
       "region": "us-east-2",
       "service": "AMAZON",
       "network_border_group": "us-east-2"
+    },
+    {
+      "ip_prefix": "15.230.51.0/24",
+      "region": "eu-west-1",
+      "service": "AMAZON",
+      "network_border_group": "eu-west-1"
     },
     {
       "ip_prefix": "15.230.64.0/26",
@@ -10803,6 +10815,12 @@
       "network_border_group": "ap-northeast-1"
     },
     {
+      "ip_prefix": "99.83.72.0/22",
+      "region": "ap-south-1",
+      "service": "AMAZON",
+      "network_border_group": "ap-south-1"
+    },
+    {
       "ip_prefix": "150.222.129.120/31",
       "region": "eu-central-1",
       "service": "AMAZON",
@@ -10942,6 +10960,12 @@
     },
     {
       "ip_prefix": "150.222.206.0/24",
+      "region": "us-east-1",
+      "service": "AMAZON",
+      "network_border_group": "us-east-1"
+    },
+    {
+      "ip_prefix": "209.54.176.0/21",
       "region": "us-east-1",
       "service": "AMAZON",
       "network_border_group": "us-east-1"
@@ -17025,6 +17049,18 @@
       "network_border_group": "cn-north-1"
     },
     {
+      "ip_prefix": "140.179.15.0/26",
+      "region": "cn-north-1",
+      "service": "AMAZON",
+      "network_border_group": "cn-north-1"
+    },
+    {
+      "ip_prefix": "140.179.15.64/26",
+      "region": "cn-north-1",
+      "service": "AMAZON",
+      "network_border_group": "cn-north-1"
+    },
+    {
       "ip_prefix": "52.81.124.0/23",
       "region": "cn-north-1",
       "service": "AMAZON",
@@ -17106,6 +17142,18 @@
       "ip_prefix": "52.83.25.160/27",
       "region": "cn-northwest-1",
       "service": "CLOUD9",
+      "network_border_group": "cn-northwest-1"
+    },
+    {
+      "ip_prefix": "52.83.26.0/26",
+      "region": "cn-northwest-1",
+      "service": "AMAZON",
+      "network_border_group": "cn-northwest-1"
+    },
+    {
+      "ip_prefix": "52.83.26.64/26",
+      "region": "cn-northwest-1",
+      "service": "AMAZON",
       "network_border_group": "cn-northwest-1"
     },
     {
