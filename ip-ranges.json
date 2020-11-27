@@ -1,6 +1,6 @@
 {
-  "syncToken": "1606315878",
-  "createDate": "2020-11-25-14-51-18",
+  "syncToken": "1606439478",
+  "createDate": "2020-11-27-01-11-18",
   "prefixes": [
     {
       "ip_prefix": "3.5.140.0/22",
@@ -5605,6 +5605,12 @@
       "region": "us-east-2",
       "service": "AMAZON",
       "network_border_group": "us-east-2"
+    },
+    {
+      "ip_prefix": "15.230.131.7/32",
+      "region": "eu-central-1",
+      "service": "AMAZON",
+      "network_border_group": "eu-central-1"
     },
     {
       "ip_prefix": "52.93.75.0/24",
@@ -11263,6 +11269,12 @@
       "region": "eu-west-1",
       "service": "AMAZON",
       "network_border_group": "eu-west-1"
+    },
+    {
+      "ip_prefix": "15.230.131.6/32",
+      "region": "eu-central-1",
+      "service": "AMAZON",
+      "network_border_group": "eu-central-1"
     },
     {
       "ip_prefix": "52.93.127.128/32",
@@ -18809,7 +18821,7 @@
     {
       "ip_prefix": "52.81.167.192/26",
       "region": "cn-north-1",
-      "service": "DYNAMODB",
+      "service": "AMAZON",
       "network_border_group": "cn-north-1"
     },
     {
@@ -18839,7 +18851,7 @@
     {
       "ip_prefix": "161.189.66.192/26",
       "region": "cn-northwest-1",
-      "service": "DYNAMODB",
+      "service": "AMAZON",
       "network_border_group": "cn-northwest-1"
     },
     {
@@ -18941,7 +18953,7 @@
     {
       "ip_prefix": "13.244.121.0/26",
       "region": "af-south-1",
-      "service": "DYNAMODB",
+      "service": "AMAZON",
       "network_border_group": "af-south-1"
     },
     {
@@ -19013,7 +19025,7 @@
     {
       "ip_prefix": "18.163.201.0/26",
       "region": "ap-east-1",
-      "service": "DYNAMODB",
+      "service": "AMAZON",
       "network_border_group": "ap-east-1"
     },
     {
@@ -20051,7 +20063,7 @@
     {
       "ip_prefix": "15.161.135.0/26",
       "region": "eu-south-1",
-      "service": "DYNAMODB",
+      "service": "AMAZON",
       "network_border_group": "eu-south-1"
     },
     {
@@ -20507,7 +20519,7 @@
     {
       "ip_prefix": "15.185.141.192/26",
       "region": "me-south-1",
-      "service": "DYNAMODB",
+      "service": "AMAZON",
       "network_border_group": "me-south-1"
     },
     {
