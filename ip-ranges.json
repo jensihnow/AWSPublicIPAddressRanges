@@ -1,6 +1,6 @@
 {
-  "syncToken": "1676935988",
-  "createDate": "2023-02-20-23-33-08",
+  "syncToken": "1677022988",
+  "createDate": "2023-02-21-23-43-08",
   "prefixes": [
     {
       "ip_prefix": "3.2.34.0/26",
@@ -9549,6 +9549,12 @@
       "network_border_group": "eu-west-1"
     },
     {
+      "ip_prefix": "142.4.161.48/29",
+      "region": "ap-northeast-1",
+      "service": "AMAZON",
+      "network_border_group": "ap-northeast-1-tpe-1"
+    },
+    {
       "ip_prefix": "3.5.44.0/22",
       "region": "ap-south-2",
       "service": "AMAZON",
@@ -12091,6 +12097,12 @@
       "region": "ap-south-1",
       "service": "AMAZON",
       "network_border_group": "ap-south-1-del-1"
+    },
+    {
+      "ip_prefix": "15.248.80.0/20",
+      "region": "us-west-2",
+      "service": "AMAZON",
+      "network_border_group": "us-west-2"
     },
     {
       "ip_prefix": "18.34.244.0/22",
@@ -28791,6 +28803,12 @@
       "network_border_group": "eu-west-1"
     },
     {
+      "ip_prefix": "142.4.161.48/29",
+      "region": "ap-northeast-1",
+      "service": "EC2",
+      "network_border_group": "ap-northeast-1-tpe-1"
+    },
+    {
       "ip_prefix": "3.5.44.0/22",
       "region": "ap-south-2",
       "service": "EC2",
@@ -38811,6 +38829,12 @@
       "network_border_group": "eu-west-1"
     },
     {
+      "ip_prefix": "3.253.134.0/23",
+      "region": "eu-west-1",
+      "service": "API_GATEWAY",
+      "network_border_group": "eu-west-1"
+    },
+    {
       "ip_prefix": "34.242.153.128/26",
       "region": "eu-west-1",
       "service": "ROUTE53_RESOLVER",
@@ -45941,6 +45965,12 @@
       "network_border_group": "ap-northeast-1"
     },
     {
+      "ipv6_prefix": "2605:9cc0:1ff2::/48",
+      "region": "us-east-1",
+      "service": "AMAZON",
+      "network_border_group": "us-east-1"
+    },
+    {
       "ipv6_prefix": "2a05:d078:2000::/40",
       "region": "eu-west-3",
       "service": "AMAZON",
@@ -50973,6 +51003,12 @@
       "region": "ap-northeast-1",
       "service": "EC2",
       "network_border_group": "ap-northeast-1"
+    },
+    {
+      "ipv6_prefix": "2605:9cc0:1ff2::/48",
+      "region": "us-east-1",
+      "service": "EC2",
+      "network_border_group": "us-east-1"
     },
     {
       "ipv6_prefix": "240f:8000:4000::/40",
