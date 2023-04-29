@@ -1,6 +1,6 @@
 {
-  "syncToken": "1682624591",
-  "createDate": "2023-04-27-19-43-11",
+  "syncToken": "1682723588",
+  "createDate": "2023-04-28-23-13-08",
   "prefixes": [
     {
       "ip_prefix": "3.2.34.0/26",
@@ -2971,6 +2971,12 @@
       "region": "us-east-1",
       "service": "AMAZON",
       "network_border_group": "us-east-1"
+    },
+    {
+      "ip_prefix": "13.34.6.64/27",
+      "region": "us-west-2",
+      "service": "AMAZON",
+      "network_border_group": "us-west-2"
     },
     {
       "ip_prefix": "13.34.30.128/27",
@@ -15915,12 +15921,6 @@
       "network_border_group": "ap-southeast-3"
     },
     {
-      "ip_prefix": "3.3.3.0/24",
-      "region": "us-east-1",
-      "service": "AMAZON",
-      "network_border_group": "us-east-1"
-    },
-    {
       "ip_prefix": "3.5.212.0/23",
       "region": "ap-south-1",
       "service": "AMAZON",
@@ -16807,6 +16807,12 @@
       "region": "us-west-1",
       "service": "AMAZON",
       "network_border_group": "us-west-1"
+    },
+    {
+      "ip_prefix": "13.34.6.96/27",
+      "region": "us-west-2",
+      "service": "AMAZON",
+      "network_border_group": "us-west-2"
     },
     {
       "ip_prefix": "13.34.60.192/27",
@@ -21103,6 +21109,12 @@
       "region": "sa-east-1",
       "service": "AMAZON",
       "network_border_group": "sa-east-1"
+    },
+    {
+      "ip_prefix": "15.230.101.0/24",
+      "region": "eu-west-3",
+      "service": "AMAZON",
+      "network_border_group": "eu-west-3"
     },
     {
       "ip_prefix": "18.162.0.0/16",
@@ -30921,12 +30933,6 @@
       "network_border_group": "ap-southeast-3"
     },
     {
-      "ip_prefix": "3.3.3.0/24",
-      "region": "us-east-1",
-      "service": "EC2",
-      "network_border_group": "us-east-1"
-    },
-    {
       "ip_prefix": "3.5.212.0/23",
       "region": "ap-south-1",
       "service": "EC2",
@@ -35280,6 +35286,12 @@
       "ip_prefix": "18.253.186.0/24",
       "region": "us-gov-east-1",
       "service": "API_GATEWAY",
+      "network_border_group": "us-gov-east-1"
+    },
+    {
+      "ip_prefix": "18.254.140.0/22",
+      "region": "us-gov-east-1",
+      "service": "WORKSPACES_GATEWAYS",
       "network_border_group": "us-gov-east-1"
     },
     {
