@@ -1,6 +1,6 @@
 {
-  "syncToken": "1744845802",
-  "createDate": "2025-04-16-23-23-22",
+  "syncToken": "1744920809",
+  "createDate": "2025-04-17-20-13-29",
   "prefixes": [
     {
       "ip_prefix": "3.4.12.4/32",
@@ -36885,6 +36885,12 @@
       "network_border_group": "ap-southeast-2"
     },
     {
+      "ip_prefix": "13.158.0.0/15",
+      "region": "ap-northeast-1",
+      "service": "EC2",
+      "network_border_group": "ap-northeast-1"
+    },
+    {
       "ip_prefix": "15.220.16.0/20",
       "region": "us-west-2",
       "service": "EC2",
@@ -40123,6 +40129,12 @@
       "region": "cn-north-1",
       "service": "EC2",
       "network_border_group": "cn-north-1"
+    },
+    {
+      "ip_prefix": "95.40.0.0/15",
+      "region": "ap-east-1",
+      "service": "EC2",
+      "network_border_group": "ap-east-1"
     },
     {
       "ip_prefix": "99.77.55.36/32",
