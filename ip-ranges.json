@@ -1,6 +1,6 @@
 {
-  "syncToken": "1775753225",
-  "createDate": "2026-04-09-16-47-05",
+  "syncToken": "1775862424",
+  "createDate": "2026-04-10-23-07-04",
   "prefixes": [
     {
       "ip_prefix": "3.4.12.4/32",
@@ -553,6 +553,12 @@
       "region": "eu-west-1",
       "service": "AMAZON",
       "network_border_group": "eu-west-1"
+    },
+    {
+      "ip_prefix": "3.5.100.0/22",
+      "region": "us-east-2",
+      "service": "AMAZON",
+      "network_border_group": "us-east-2"
     },
     {
       "ip_prefix": "13.248.70.0/24",
@@ -4225,6 +4231,12 @@
       "region": "ca-central-1",
       "service": "AMAZON",
       "network_border_group": "ca-central-1"
+    },
+    {
+      "ip_prefix": "45.33.172.0/24",
+      "region": "eu-west-1",
+      "service": "AMAZON",
+      "network_border_group": "eu-west-1"
     },
     {
       "ip_prefix": "52.93.12.0/24",
@@ -14571,6 +14583,12 @@
       "network_border_group": "GLOBAL"
     },
     {
+      "ip_prefix": "3.5.104.0/22",
+      "region": "us-east-2",
+      "service": "AMAZON",
+      "network_border_group": "us-east-2"
+    },
+    {
       "ip_prefix": "18.99.0.0/19",
       "region": "ca-central-1",
       "service": "AMAZON",
@@ -17809,6 +17827,12 @@
       "region": "us-east-1",
       "service": "AMAZON",
       "network_border_group": "us-east-1"
+    },
+    {
+      "ip_prefix": "3.5.108.0/22",
+      "region": "us-east-2",
+      "service": "AMAZON",
+      "network_border_group": "us-east-2"
     },
     {
       "ip_prefix": "13.212.0.0/15",
@@ -32925,6 +32949,12 @@
       "network_border_group": "ca-central-1"
     },
     {
+      "ip_prefix": "16.174.54.0/23",
+      "region": "ca-west-1",
+      "service": "AMAZON",
+      "network_border_group": "ca-west-1"
+    },
+    {
       "ip_prefix": "40.176.101.0/26",
       "region": "ca-west-1",
       "service": "AMAZON",
@@ -35103,6 +35133,12 @@
       "network_border_group": "ap-southeast-7"
     },
     {
+      "ip_prefix": "3.5.100.0/22",
+      "region": "us-east-2",
+      "service": "S3",
+      "network_border_group": "us-east-2"
+    },
+    {
       "ip_prefix": "16.12.44.0/24",
       "region": "ap-southeast-5",
       "service": "S3",
@@ -35817,6 +35853,12 @@
       "network_border_group": "ap-northeast-1"
     },
     {
+      "ip_prefix": "3.5.104.0/22",
+      "region": "us-east-2",
+      "service": "S3",
+      "network_border_group": "us-east-2"
+    },
+    {
       "ip_prefix": "52.95.190.0/24",
       "region": "ca-central-1",
       "service": "S3",
@@ -35977,6 +36019,12 @@
       "region": "eu-south-1",
       "service": "S3",
       "network_border_group": "eu-south-1"
+    },
+    {
+      "ip_prefix": "3.5.108.0/22",
+      "region": "us-east-2",
+      "service": "S3",
+      "network_border_group": "us-east-2"
     },
     {
       "ip_prefix": "52.95.138.0/24",
@@ -38755,6 +38803,12 @@
       "region": "us-east-1",
       "service": "EC2",
       "network_border_group": "us-east-1-bos-1"
+    },
+    {
+      "ip_prefix": "3.5.100.0/22",
+      "region": "us-east-2",
+      "service": "EC2",
+      "network_border_group": "us-east-2"
     },
     {
       "ip_prefix": "18.96.32.0/19",
@@ -43635,6 +43689,12 @@
       "network_border_group": "ap-southeast-2-per-1"
     },
     {
+      "ip_prefix": "3.5.104.0/22",
+      "region": "us-east-2",
+      "service": "EC2",
+      "network_border_group": "us-east-2"
+    },
+    {
       "ip_prefix": "18.99.0.0/19",
       "region": "ca-central-1",
       "service": "EC2",
@@ -44695,6 +44755,12 @@
       "region": "eu-central-1",
       "service": "EC2",
       "network_border_group": "eu-central-1"
+    },
+    {
+      "ip_prefix": "3.5.108.0/22",
+      "region": "us-east-2",
+      "service": "EC2",
+      "network_border_group": "us-east-2"
     },
     {
       "ip_prefix": "13.212.0.0/15",
@@ -59415,6 +59481,12 @@
       "network_border_group": "us-west-2"
     },
     {
+      "ip_prefix": "18.99.177.0/25",
+      "region": "ap-east-1",
+      "service": "AURORA_DSQL",
+      "network_border_group": "ap-east-1"
+    },
+    {
       "ip_prefix": "18.99.75.128/25",
       "region": "ap-northeast-1",
       "service": "AURORA_DSQL",
@@ -59431,6 +59503,18 @@
       "region": "ap-northeast-3",
       "service": "AURORA_DSQL",
       "network_border_group": "ap-northeast-3"
+    },
+    {
+      "ip_prefix": "18.96.231.0/25",
+      "region": "ap-south-1",
+      "service": "AURORA_DSQL",
+      "network_border_group": "ap-south-1"
+    },
+    {
+      "ip_prefix": "3.44.5.128/25",
+      "region": "ap-southeast-1",
+      "service": "AURORA_DSQL",
+      "network_border_group": "ap-southeast-1"
     },
     {
       "ip_prefix": "3.44.64.128/25",
@@ -59463,6 +59547,12 @@
       "network_border_group": "eu-central-1"
     },
     {
+      "ip_prefix": "18.99.100.128/25",
+      "region": "eu-north-1",
+      "service": "AURORA_DSQL",
+      "network_border_group": "eu-north-1"
+    },
+    {
       "ip_prefix": "18.97.198.128/25",
       "region": "eu-west-1",
       "service": "AURORA_DSQL",
@@ -59479,6 +59569,12 @@
       "region": "eu-west-3",
       "service": "AURORA_DSQL",
       "network_border_group": "eu-west-3"
+    },
+    {
+      "ip_prefix": "3.44.193.128/25",
+      "region": "sa-east-1",
+      "service": "AURORA_DSQL",
+      "network_border_group": "sa-east-1"
     },
     {
       "ip_prefix": "18.97.33.128/25",
@@ -60995,6 +61091,12 @@
       "network_border_group": "ap-northeast-3"
     },
     {
+      "ipv6_prefix": "2605:b140:9800::/48",
+      "region": "us-west-1",
+      "service": "AMAZON",
+      "network_border_group": "us-west-1"
+    },
+    {
       "ipv6_prefix": "2620:107:4000:9002::/64",
       "region": "us-east-1",
       "service": "AMAZON",
@@ -61455,6 +61557,12 @@
       "region": "eu-central-1",
       "service": "AMAZON",
       "network_border_group": "eu-central-1"
+    },
+    {
+      "ipv6_prefix": "2600:f0f3:f010::/56",
+      "region": "us-east-1",
+      "service": "AMAZON",
+      "network_border_group": "us-east-1"
     },
     {
       "ipv6_prefix": "2606:f40:ffe4::/48",
@@ -80369,6 +80477,12 @@
       "network_border_group": "ap-northeast-3"
     },
     {
+      "ipv6_prefix": "2605:b140:9800::/48",
+      "region": "us-west-1",
+      "service": "EC2",
+      "network_border_group": "us-west-1"
+    },
+    {
       "ipv6_prefix": "2600:1f30:e000::/40",
       "region": "sa-east-1",
       "service": "EC2",
@@ -80709,6 +80823,12 @@
       "region": "eu-central-1",
       "service": "EC2",
       "network_border_group": "eu-central-1"
+    },
+    {
+      "ipv6_prefix": "2600:f0f3:f010::/56",
+      "region": "us-east-1",
+      "service": "EC2",
+      "network_border_group": "us-east-1"
     },
     {
       "ipv6_prefix": "2606:f40:ffe4::/48",
@@ -92333,6 +92453,12 @@
       "network_border_group": "us-west-2"
     },
     {
+      "ipv6_prefix": "2406:da1e:10e:a00::/56",
+      "region": "ap-east-1",
+      "service": "AURORA_DSQL",
+      "network_border_group": "ap-east-1"
+    },
+    {
       "ipv6_prefix": "2406:da14:1713:ba00::/56",
       "region": "ap-northeast-1",
       "service": "AURORA_DSQL",
@@ -92349,6 +92475,18 @@
       "region": "ap-northeast-3",
       "service": "AURORA_DSQL",
       "network_border_group": "ap-northeast-3"
+    },
+    {
+      "ipv6_prefix": "2406:da1a:9d0:b800::/56",
+      "region": "ap-south-1",
+      "service": "AURORA_DSQL",
+      "network_border_group": "ap-south-1"
+    },
+    {
+      "ipv6_prefix": "2406:da18:1580:b00::/56",
+      "region": "ap-southeast-1",
+      "service": "AURORA_DSQL",
+      "network_border_group": "ap-southeast-1"
     },
     {
       "ipv6_prefix": "2406:da1c:b86:9800::/56",
@@ -92381,6 +92519,12 @@
       "network_border_group": "eu-central-1"
     },
     {
+      "ipv6_prefix": "2a05:d016:116:3d00::/56",
+      "region": "eu-north-1",
+      "service": "AURORA_DSQL",
+      "network_border_group": "eu-north-1"
+    },
+    {
       "ipv6_prefix": "2a05:d018:b3d:8200::/56",
       "region": "eu-west-1",
       "service": "AURORA_DSQL",
@@ -92397,6 +92541,12 @@
       "region": "eu-west-3",
       "service": "AURORA_DSQL",
       "network_border_group": "eu-west-3"
+    },
+    {
+      "ipv6_prefix": "2600:1f1e:cd1:5100::/56",
+      "region": "sa-east-1",
+      "service": "AURORA_DSQL",
+      "network_border_group": "sa-east-1"
     },
     {
       "ipv6_prefix": "2600:1f18:692c:300::/56",
