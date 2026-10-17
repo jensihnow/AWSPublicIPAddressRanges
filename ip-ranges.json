@@ -1,6 +1,6 @@
 {
-  "syncToken": "1792124824",
-  "createDate": "2026-10-16-04-27-04",
+  "syncToken": "1792208826",
+  "createDate": "2026-10-17-03-47-06",
   "prefixes": [
     {
       "ip_prefix": "3.4.12.4/32",
@@ -7735,6 +7735,12 @@
       "region": "eu-south-2",
       "service": "AMAZON",
       "network_border_group": "eu-south-2"
+    },
+    {
+      "ip_prefix": "191.166.0.0/16",
+      "region": "mx-central-1",
+      "service": "AMAZON",
+      "network_border_group": "mx-central-1"
     },
     {
       "ip_prefix": "3.4.1.0/24",
@@ -32715,6 +32721,12 @@
       "network_border_group": "cn-north-1"
     },
     {
+      "ip_prefix": "71.137.18.0/23",
+      "region": "cn-north-1",
+      "service": "AMAZON",
+      "network_border_group": "cn-north-1"
+    },
+    {
       "ip_prefix": "161.189.66.128/26",
       "region": "cn-northwest-1",
       "service": "AMAZON",
@@ -32734,6 +32746,18 @@
     },
     {
       "ip_prefix": "43.192.160.0/22",
+      "region": "cn-northwest-1",
+      "service": "AMAZON",
+      "network_border_group": "cn-northwest-1"
+    },
+    {
+      "ip_prefix": "43.192.198.0/23",
+      "region": "cn-northwest-1",
+      "service": "AMAZON",
+      "network_border_group": "cn-northwest-1"
+    },
+    {
+      "ip_prefix": "43.192.200.0/23",
       "region": "cn-northwest-1",
       "service": "AMAZON",
       "network_border_group": "cn-northwest-1"
@@ -35235,6 +35259,12 @@
       "network_border_group": "me-west-1"
     },
     {
+      "ip_prefix": "51.168.206.0/23",
+      "region": "me-west-1",
+      "service": "AMAZON",
+      "network_border_group": "me-west-1"
+    },
+    {
       "ip_prefix": "78.12.58.0/24",
       "region": "mx-central-1",
       "service": "AMAZON",
@@ -36280,6 +36310,12 @@
     },
     {
       "ip_prefix": "44.254.14.0/23",
+      "region": "us-west-2",
+      "service": "AMAZON",
+      "network_border_group": "us-west-2"
+    },
+    {
+      "ip_prefix": "44.254.6.0/23",
       "region": "us-west-2",
       "service": "AMAZON",
       "network_border_group": "us-west-2"
